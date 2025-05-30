@@ -1,0 +1,12 @@
+transformers==4.52.2
+torch==2.7.0
+torchaudio==2.7.0
+soundfile==0.13.1
+PySoundFile==0.9.0.post1
+moviepy==1.0.3
+yt-dlp
+pydantic
+fastapi==0.115.12
+uvicorn==0.34.2
+
+
